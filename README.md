@@ -2,4 +2,4 @@
 
 github-para-programadores
 
-[visita mi blog](trazabilidadmasterdent.online)
+[visita mi blog](https://trazabilidadmasterdent.online/)
